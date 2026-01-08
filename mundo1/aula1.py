@@ -1,0 +1,1 @@
+#Aula 1 foi apenas intodução da importancia de programadores na atualidade
